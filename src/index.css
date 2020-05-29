@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.display-5 {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.4;
+	margin-bottom: 1.4rem;
+}
+.jumbotron {
+	padding: 2rem 3rem;
+}
